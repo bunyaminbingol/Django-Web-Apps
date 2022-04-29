@@ -6,3 +6,7 @@
 #
 
 Here are 3 website apps I've built using the Django framework.
+
+# How to RUN
+* First you need to start **python**
+> There is "manage.py" in each application file, you need to run the `python manage.py runserver` code in this file directory.
